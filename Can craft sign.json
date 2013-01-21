@@ -1,0 +1,15 @@
+{
+    "title": "Can craft sign",
+    "version": 1,
+    "author": "hongjong8",
+    "target": "/data/data/com.mojang.minecraftpe/lib/libminecraftpe.so",
+    "root": true,
+    "initial": {
+        "1345b2": ["0c"]
+    },
+    "options": {
+        "Applied": {
+            "1345b2": ["43"]
+        }
+    }
+}
